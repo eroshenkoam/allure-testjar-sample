@@ -1,0 +1,12 @@
+# Idea
+.idea
+*.iml
+
+# Allure
+allure-results
+
+# Maven
+target
+
+# Jar
+test-output
